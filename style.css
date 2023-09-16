@@ -1,0 +1,17 @@
+ /* Стилизация контейнера с изображением */
+        .image-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        /* Стилизация изображения iPhone */
+        .iphone-image {
+            max-width: 60%;
+            height: auto;
+            border: 2px solid #333;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+            justify-self: center;
+            align-items: center;
+            
+        }
